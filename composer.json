@@ -1,0 +1,16 @@
+{
+    "name": "khalid/php-todo-app",
+    "description": "A simple ToDo app written in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khalid Alharbi",
+            "email": "kalharbi@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+      "heroku/heroku-buildpack-php": "*"
+    }
+}
